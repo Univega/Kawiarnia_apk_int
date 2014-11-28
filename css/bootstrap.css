@@ -1003,7 +1003,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: inherit;
+  font-family: Comic Sans MS;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
@@ -1107,6 +1107,7 @@ h6,
   font-size: 12px;
 }
 p {
+font-family: Comic Sans MS;
   margin: 0 0 10px;
 }
 .lead {
@@ -4261,7 +4262,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #ccc;
 }
 .navbar-inverse {
-  background-color:#9800FF;
+  background-color:#121413;
   border-color: #080808;
 }
 .navbar-inverse .navbar-brand {
